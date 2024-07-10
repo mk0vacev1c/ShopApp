@@ -30,6 +30,13 @@ This is a React Native shopping application that allows users to view a list of 
 ├── ProductListScreen.test.tsx
 ├── ProductDetailScreen.test.tsx
 
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm or yarn
+- Expo CLI
 
 ## Installation
 
@@ -42,9 +49,10 @@ This is a React Native shopping application that allows users to view a list of 
 
 2. **Install dependencies**:
 
-    ```bash
-    npm install --legacy-peer-deps
-    ```
+    npm install
+    # or
+    yarn install
+
 
 3. **Start the Expo development server**:
 
@@ -79,4 +87,4 @@ License
 
 - 'mk0vacev1c'
 
-This `README.md` provides a comprehensive overview of your project, instructions for installation and usage, and information on troubleshooting and contributing.
+
